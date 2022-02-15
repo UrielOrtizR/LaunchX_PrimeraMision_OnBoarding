@@ -1,1 +1,1 @@
-# Curso Propedútico de Python para Launch X - Innovacción Virtual
+# Curso Propedéutico de Python para Launch X - Innovacción Virtual
